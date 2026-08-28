@@ -65,7 +65,7 @@ The tool is intended for reporting and research; it is not a trading platform.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Jhanwi/StockSense-Indian-Stock-Price-Forecaster.git
+git clone https://github.com/Jhanwi/Indian-Stock-Price-Forecaster.git
 cd Indian-Stock-Price-Forecaster
 ```
 
